@@ -12,4 +12,6 @@ div {
 .row {
   border-color: yellow;
 }
-
+.list-group-item {
+  border: 0;
+}

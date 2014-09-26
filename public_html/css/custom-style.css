@@ -1,19 +1,30 @@
+#index
 div {
     border-style: solid;
     border-width: 5px;
     border-color: green;
-    padding: 30px;
+    padding: 5px;
 }
-
+#index
 .container {
     border-color: aqua;
 }
-
+#index
 .row {
   border-color: yellow;
 }
+#index
 .list-group-item {
   border: 0;
-  margin: 40px;
-  margin-bottom: 40px;
+  margin: 5px;
+  margin-bottom: 20px;
+}
+#index
+body{
+    background-image: url("https://login.touricoholidays.com/wp-content/uploads/2012/10/technologyContact.jpg")
+}
+
+#index
+.carousel-inner > .item > img {
+    margin: 0 auto;
 }
